@@ -6,16 +6,16 @@ repository: bsjian/resume
 name: Bosheng Jian
 title: Student
 email: bosheng@gatech.edu
-website: https://bsjian.github.io/cover-card
+website: https://bsjian.github.io/cover-card/
 
 # Social links
-twitter_username: missakakuma
-github_username: bsjian
+#twitter_username: facespics
+#github_username:  sproogen
 # dribbble_username: jekyll
-facebook_username: junior.jian
+# facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: chillwildlife
-linkedin_username: jameswgrant
+#linkedin_username: jameswgrant
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -24,7 +24,7 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Bosheng and I'm currently a CSE student in Georgia Tech. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -58,3 +58,7 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ 
+ 
+github: [metadata]
+

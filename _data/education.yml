@@ -1,9 +1,23 @@
-- name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+- name: Georgia Tech
+  dates: Aug 2018 - Now
+  qualification: M.Sc. Computer Science and Engineering
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Georgia Institute of Technology, one of the premier research universities in the United States, was established by an Act of the Georgia Legislature on October 13, 1885. The Institute is best known for its top-ranked academics, world-renowned faculty, and highly motivated students. The U.S. News & World Report consistently ranks Georgia Tech as one of the top 10 public universities in the country.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+ 
+    As a CS student at Tech, During my time at Tongji I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+ 
+
+- name: Tongji University
+  dates: Sept 2014 - Jun 2018
+  qualification: B.Eng. Civil Engineering
+  quote: >
+    Established in 1907 by the German government together with German physicians in Shanghai, Tongji is one of the oldest and most prestigious universities in China.
+  description: | # this will include new lines to allow paragraphs
+  
+    During my time at Tongji I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
