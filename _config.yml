@@ -1,23 +1,23 @@
 # Site
-repository: sproogen/resume-theme
+repository: bsjian/resume
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Bosheng Jian
+title: Student
+email: bosheng@gatech.edu
+website: https://bsjian.github.io/cover-card
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: missakakuma
+github_username: bsjian
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: junior.jian
 # flickr_username: jekyll
-instagram_username: chillwildlife
+#instagram_username: chillwildlife
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -50,7 +50,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: bsjian/resume
 
 sass:
   sass_dir: _sass
